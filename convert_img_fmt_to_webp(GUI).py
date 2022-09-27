@@ -4,7 +4,7 @@ import os
 from PIL import Image
 
 #initialize GUI
-sg.theme('Reddit')
+sg.theme("TealMono")
 layout = [
             [sg.Text("This tool is used to Convert image files(.png,.ipg,.jpeg,.gif,.svg) to webp files)")],
             [sg.Text("Image File: "), sg.InputText(), sg.FileBrowse(key="img_file")],
