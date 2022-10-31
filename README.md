@@ -7,3 +7,6 @@ convert image files(format: png,ipg,jpeg,gif,svg) to webp file on operating GUI.
 
 ## Note
 [Info] You must install "PySimpleGUI" and pillow by pip, if not.
+
+## References
+・About PySimpleGUI: https://github.com/PySimpleGUI/PySimpleGUI
