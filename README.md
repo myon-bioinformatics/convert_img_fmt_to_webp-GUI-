@@ -1,6 +1,6 @@
 # convert_img_fmt_to_webp-GUI-
 ## Summary
-convert image files(format: png,ipg,jpeg,gif,svg) to webp file on operating GUI
+convert image files(format: png,ipg,jpeg,gif,svg) to webp file on operating GUI.
 
 ## GUI Image
 ![GUI_IMAGE](GUI_IMAGE_r1.webp)
