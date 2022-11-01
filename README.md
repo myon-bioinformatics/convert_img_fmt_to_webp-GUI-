@@ -16,3 +16,5 @@ convert image files(format: png,ipg,jpeg,gif,svg) to webp file on operating GUI.
 ・About Pillow: https://pypi.org/project/Pillow/
 
 ・About CUI version: [convert_img_fmt_to_webp-CUI-](https://github.com/myon-bioinformatics/convert_img_fmt_to_webp-CUI-)
+
+・About Webp: https://developers.google.com/speed/webp
